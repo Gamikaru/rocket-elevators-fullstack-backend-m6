@@ -282,10 +282,9 @@ By focusing on unit testing at this stage, we establish a solid foundation that 
 
 ## Contact
 
-[Your Name] - [Email](mailto:gavrielmrudolph@gmail.com) - [LinkedIn](https://www.linkedin.com/in/gavriel-rudolph-95a66b127/)
+[Email](mailto:gavrielmrudolph@gmail.com) - [LinkedIn](https://www.linkedin.com/in/gavriel-rudolph-95a66b127/)
 
 ---
 
-**Note:** Replace placeholders like `your_mongodb_connection_string`, `your_access_token`, `[Your Name]`, and contact information with your actual details.
 
 ---
