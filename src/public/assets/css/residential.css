@@ -1,0 +1,56 @@
+/*This css contains the styling for the agents table on the residential page*/
+
+
+#agents-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1); /* Soft shadow around table */
+
+}
+
+#regionFilter {
+    width: 20%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1); /* Soft shadow around table */
+    padding: 8px;
+}   
+
+th {
+    background-color: #0056b3; /* Blue header */
+    color: white; /* White text color */
+    text-align: left;
+    padding: 10px;
+    font-size: 18px; /* Larger text for headers */
+}
+
+td {
+    padding: 10px;
+    
+    border-bottom: 1px solid #ddd; /* Light grey border for each row */
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+tr:hover {
+    background-color: #ddd; /* Darker shade on hover for highlight */
+}
+
+
+.sort-arrow {
+    display: inline-block;
+    margin-left: 5px;
+}
+
+.sort-arrow.asc:after {
+    content: '▲';
+    font-size: 12px;
+}
+
+.sort-arrow.desc:after {
+    content: '▼';
+    font-size: 12px;
+}
